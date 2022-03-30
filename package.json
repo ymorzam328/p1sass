@@ -1,0 +1,26 @@
+{
+  "name": "p1sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass:watch": "sass --watch main.scss  main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymorzam328/p1sass.git"
+  },
+  "author": "Yolanda MZ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ymorzam328/p1sass/issues"
+  },
+  "homepage": "https://github.com/ymorzam328/p1sass#readme",
+  "devDependencies": {
+    "sass": "^1.49.9"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.1.1"
+  }
+}

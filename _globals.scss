@@ -3,6 +3,9 @@ body {
   background-color: $bcolor;
 }
 
+header {
+  border: ipx solid $borders;
+}
 main {
   ul {
     list-style-type: none;
