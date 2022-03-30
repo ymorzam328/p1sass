@@ -1,0 +1,50 @@
+/**/
+body {
+  margin: 0;
+  background-color: #7467e7;
+}
+
+main ul {
+  list-style-type: none;
+}
+
+main ul li:nth-child(1) {
+  color: #f5cd84;
+}
+
+main ul li:nth-child(2) {
+  color: #f7d79b;
+}
+
+main ul li:nth-child(3) {
+  color: #f9e0b3;
+}
+
+main ul li:nth-child(4) {
+  color: #fbeaca;
+}
+
+main ul li:nth-child(5) {
+  color: #fdf3e2;
+}
+
+main ul li:nth-child(6) {
+  color: #fffdf9;
+}
+
+main ul li:nth-child(7) {
+  color: white;
+}
+
+main ul li:nth-child(8) {
+  color: white;
+}
+
+main ul li:nth-child(9) {
+  color: white;
+}
+
+main ul li:nth-child(10) {
+  color: white;
+}
+/*# sourceMappingURL=main.css.map */
